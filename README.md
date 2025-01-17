@@ -219,5 +219,9 @@ Feel free to fork this repository and submit pull requests for any improvements.
 
 
 ## Testing
-- To run the test_battleship.py, install pytest and run ```bash pytest``` with the name of the file ```bash test_battleship.py```
+- To run the test_battleship.py, install pytest and run ```bash
+  pytest
+  ``` with the name of the file ```bash
+  test_battleship.py
+  ```
 
